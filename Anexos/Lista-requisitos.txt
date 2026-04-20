@@ -1,9 +1,11 @@
-Requisitos
-Pontualidade
-Adaptabilidade
-Proficiencia phyton
-Proficiencia Excel
-Proficiencia R
-Proficiencia SPSS
-Proficiencia STATA
-Proficiencia MinTab
+Requisitos;Prioridade;
+Pontualidade;Baixa;
+Adaptabilidade;Baixa;
+Proficiencia phyton;Baixa;
+Proficiencia Excel;Baixa;
+Proficiencia R;Baixa;
+Proficiencia SPSS;Baixa;
+Proficiencia STATA;Alta;
+Proficiencia MinTab;Alta;
+Proficiencia Matlab;
+Proficiencia GitHub;
